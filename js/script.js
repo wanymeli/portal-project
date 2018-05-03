@@ -1,1 +1,1 @@
-alert("Hello GitHub Trainee");
+alert("Hello Wany");
