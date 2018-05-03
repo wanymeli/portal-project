@@ -1,1 +1,1 @@
-Hello.. This is wany's repo
+Hello.. This is wany's repository
